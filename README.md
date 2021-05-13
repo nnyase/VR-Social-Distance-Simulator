@@ -1,2 +1,2 @@
 # VR-Social-Distance-Simulator
-Researching and simulating the effectiveness of smartphone tracking applications that track users that have the coronavirus and alert others in the same vicinity as them. My collegues and I used Net-logo (Development tool for agent-based analytical modelling) to simulate the complex behaviour of people with and without the application 
+Collaborated with collegues to create a Virtual Reality application in Unity that educates children how to social distance correctly in various areas such as malls, and bars.  The focus was on human computer interaction and user centred design to produce a industry standard application.
